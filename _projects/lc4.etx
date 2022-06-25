@@ -1,6 +1,7 @@
 ---
-title: "What is Hinduism to me?"
+title: "LC4 Processor Design using Xilinx Zynq -7000 SoC"
 layout: post
 ---
 
-Disclaimer: This is my very first post ever and the views in this post are of my own. Feel free to ping me to have a chat. :)
+• Working on implementing a pipelined, superscalar processor for a simple RISC ISA using Verilog
+• Created a single cycle datapath using a single ALU supporting all the ISA instructions

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: About
+permalink: /
 ---
 <img width="150" height="185" style="float: left; padding-right: 10px" src="https://user-images.githubusercontent.com/47292036/174701643-5bf2240e-0604-43e3-8bc4-06dbad4895fd.JPG">
 I am a graduate student at the University of Pennsylvania expected to complete my Masters in Electrical Engineering in December 2022. Currently, I am interested to apply the programmability of FPGA devices to accelerate the performance of different applications such as in the field of robotics, economics and radars. 

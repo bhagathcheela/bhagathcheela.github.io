@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Blog"
-permalink: /blog/
+permalink: /blog
 ---
+
 
 {% for blog in site.categories.blogs %}
   {{ blog.output }}

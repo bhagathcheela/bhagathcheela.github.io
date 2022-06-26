@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Blog"
-permalink: /blog
+permalink: /blog/
 ---
 
-
-{% for blog in site.categories.blogs %}
-  {{ blog.output }}
-{% endfor %}
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
 

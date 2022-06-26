@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: Projects
-permalink: /projects
+permalink: /projects/
 ---
 
-{% for project in site.categories.projects %}
-  {{ project.output }}
-{% endfor %}
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}

@@ -1,6 +1,6 @@
 ---
 title: "What is Hinduism to me?"
-layout: post
+layout: default
 category: blogs
 ---
 

@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Projects"
+permalink: /projects/
+---
+
+<h1>List of my Projects</h1>
+
+<ul>
+  {% for project in sites.categories.projects %}
+    <li>
+      <a href="">{{project.title}}</a>
+      <p>{{project.meta}}</p>
+  </li>
+  {% editor %}
+</ul>

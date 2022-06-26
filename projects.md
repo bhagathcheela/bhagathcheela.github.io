@@ -1,6 +1,7 @@
 ---
-layout: default
-title: "Projects"
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
 {% if site.show_excerpts %}

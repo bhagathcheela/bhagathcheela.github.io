@@ -1,7 +1,0 @@
----
-title: "LC4 Processor Design using Xilinx Zynq -7000 SoC"
-layout: post
----
-
-• Working on implementing a pipelined, superscalar processor for a simple RISC ISA using Verilog
-• Created a single cycle datapath using a single ALU supporting all the ISA instructions

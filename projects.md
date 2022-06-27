@@ -12,12 +12,6 @@ permalink: /projects/
 - Implemented a 5 staged pipelined, superscalar LC4 processor using Verilog in Xilinx Zynq 7000 SoC
 - Performed bypassing to handle the data hazards, optimized the pipelines to close the timing requirement at 66 MHz
 
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ## Deduplication and Compression using Xilinx Zynq MPSoC
 
 <img width="150" height="185" style="float: right; padding-right: 20px" src="https://user-images.githubusercontent.com/47292036/175859980-75bcda94-91a7-4e56-bd91-3ffd7bb17e9a.jpg">
@@ -54,13 +48,6 @@ permalink: /projects/
 
 - Designed RF transmitter chain consisting of SSA, PA at 7 GHz with a gain of 24 dB and PAE of 25% using Keysight ADS
 - Realized LNA with a noise figure of 1.34 dB and gain of 7 dB at 7 GHz, direction coupler with insertion loss less than 0.4 dB and 10 dB coupling using Keysight ADS and AWR -->
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 # Embedded Electronics
 ## [Smart Watch](https://devpost.com/software/protowatch-smart-device-on-your-wrist-that-also-tells-time)
@@ -71,13 +58,9 @@ permalink: /projects/
 - Integrated Ambient light sensor for automatic brightness control and IMU to measure to update the step count
 - Developed the firmware using FreeRTOS with OTA firmware upgrade capability and using on-chip memory resources.
 
-</br>
-</br>
-</br>
-
 ## [Nano-Satellite](https://parikshit.space/)
 
-<img src="https://user-images.githubusercontent.com/47292036/175864687-cc297a71-b71f-4134-a98e-2499838ff5d4.jpg">
+<img src="https://user-images.githubusercontent.com/47292036/175864687-cc297a71-b71f-4134-a98e-2499838ff5d4.jpg" style="float: center">
 
 - Designed a smart watch with LCD display that can update task list along with date, time, temperature and IMU measurement
 - Integrated Ambient light sensor for automatic brightness control and IMU to measure to update the step count

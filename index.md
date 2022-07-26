@@ -19,4 +19,4 @@ In my experience, I have developed skills in the following areas:
 - Technical writing in design specifics, manuals, test reports, and operational manuals
 - Project management and leadership in prolonged projects
 
-Please reach out to me if you would like to know more about me and my projects. If you like to call me up or grab a drink, do reach me out at [this link.] (https://calendly.com/bhagathcheela/casual-meetup) 
+Please reach out to me if you would like to know more about me and my projects. If you like to call me up or grab a drink, do reach me out at [this link] (https://calendly.com/bhagathcheela/casual-meetup) 

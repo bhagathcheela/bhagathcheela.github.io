@@ -14,7 +14,7 @@ permalink: /projects/
 
 ## Deduplication and Compression using Xilinx Zynq MPSoC
 
-<img width="192" height="144" style="float: right; padding-left: 10px" src="https://user-images.githubusercontent.com/47292036/175859980-75bcda94-91a7-4e56-bd91-3ffd7bb17e9a.jpg">
+<img width="192" height="144" style="float: right" src="https://user-images.githubusercontent.com/47292036/175859980-75bcda94-91a7-4e56-bd91-3ffd7bb17e9a.jpg">
 
 - Developed a compressor to receive data in real time and compress into memory using deduplication and compression
 - Implemented a 5-stage pipeline for deduplication to run on the multiple ARM CPU cores using NEON intrinsics

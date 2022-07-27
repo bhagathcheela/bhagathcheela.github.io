@@ -16,6 +16,7 @@ Milestones achieved
 ## Deduplication and Compression using Xilinx Zynq MPSoC
 
 <img width="192" height="144" style="float: right; padding-left: 10px" src="https://user-images.githubusercontent.com/47292036/175859980-75bcda94-91a7-4e56-bd91-3ffd7bb17e9a.jpg">
+
 - Developed a compressor to receive data in real time and compress into memory using deduplication and compression
 - Implemented a 5-stage pipeline for deduplication to run on the multiple ARM CPU cores using NEON intrinsics
 - Accelerated the compression algorithm and achieved a throughput of 48 Mbps using on-chip FPGA
@@ -23,6 +24,7 @@ Milestones achieved
 ## Hardware Accelerator for Machine Learning using FPGAs
 
 <img src="https://user-images.githubusercontent.com/47292036/175862594-f177f116-2229-47cd-8401-d7eb089854c4.png">
+
 - Devised an FPGA-accelerated convolutional layer for accelerating DCNN using AWS F1 instance
 - Integrated the kernel into Pytorch using C++ extensions and built the host code using OpenCL API
 - Explored the design space using multiple kernels and out of order queue techniques to achieve comparable speed up with single core CPU
@@ -30,6 +32,7 @@ Milestones achieved
 ## Automated Optical Inspection for PCB’s using Machine Learning
 
 <img width="235" height="214" style="float: right; padding-left: 10px" src="https://user-images.githubusercontent.com/47292036/175860038-4d04849b-219d-43f8-9d7b-6be14443564b.jpg">
+
 - Developed a method to identify missing components on a PCB using Machine Learning and accomplished an accuracy of 86%
 - Fine-tuned the features and evaluated the performance on various CNNs including ResNet, VGG and Inceptionv3
 
@@ -59,7 +62,7 @@ Milestones achieved
 
 ## [Nano-Satellite](https://parikshit.space/)
 
-<img width="350" height="106" align="center" src="https://user-images.githubusercontent.com/47292036/175864687-cc297a71-b71f-4134-a98e-2499838ff5d4.jpg" style="float: center">
+<img src="https://user-images.githubusercontent.com/47292036/175864687-cc297a71-b71f-4134-a98e-2499838ff5d4.jpg" style="float: center">
 
 - Designed a smart watch with LCD display that can update task list along with date, time, temperature and IMU measurement
 - Integrated Ambient light sensor for automatic brightness control and IMU to measure to update the step count
